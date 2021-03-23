@@ -2,7 +2,7 @@
 Programming excercises
 
 
-#--- PYTHON PROJECTS ----
+--- PYTHON PROJECTS ----
 
 LIGHTS OUT:
 https://en.wikipedia.org/wiki/Lights_Out_(game)
@@ -15,8 +15,8 @@ SHAMIR'S SECRET SHARING:
 https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing
 
 
-#--- C++ PROJECTS ---
+--- C++ PROJECTS ---
 
-HANGMAN (C++):
+HANGMAN:
 The program thinks of a word and the other (you) tries to guess it by suggesting letters within a certain number (10) of guesses.
 https://en.wikipedia.org/wiki/Hangman_(game)
