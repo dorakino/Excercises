@@ -20,3 +20,5 @@ https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing
 HANGMAN:
 The program thinks of a word and the other (you) tries to guess it by suggesting letters within a certain number (10) of guesses.
 https://en.wikipedia.org/wiki/Hangman_(game)
+
+SZIMPLEX:
